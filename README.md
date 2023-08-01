@@ -1,6 +1,6 @@
 # Healthy Sleep Data Analysis and BMI Prediction
 
-This repository contains code for analyzing the "Sleep Health and Lifestyle" dataset. The dataset comprises various factors related to demographics, the factors which affect sleep quality, and BMI prediction, The analysis includes the distribution of gender and occupations among the participants, as well as two machine learning models: Multiple Linear Regression and Support Vector Classification (SVC).
+The "Sleep Health and Lifestyle" dataset analysis code is available in this repository. The dataset includes a number ofsleep-related variables to conduct multiple linear regression model and support vector classification. The analysis contains two machine learning models: Multiple Linear Regression and Support Vector Classification (SVC), as well as information about participant gender and occupation distribution.
 
 ## Dataset
 
