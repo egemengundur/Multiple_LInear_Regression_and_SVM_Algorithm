@@ -1,6 +1,6 @@
 # Sleep Health Data Analysis and BMI Prediction
 
-This repository contains code for analyzing the "Sleep Health and Lifestyle" dataset. The dataset comprises various factors related to sleep health, BMI, and demographics. The analysis includes the distribution of gender and occupations among the participants, as well as two machine learning models: Multiple Linear Regression and Support Vector Classification (SVC).
+This repository contains code for analyzing the "Sleep Health and Lifestyle" dataset. The dataset comprises various factors related to demographics, the factors which affect sleep quality, and BMI prediction, The analysis includes the distribution of gender and occupations among the participants, as well as two machine learning models: Multiple Linear Regression and Support Vector Classification (SVC).
 
 ## Dataset
 
@@ -36,7 +36,8 @@ The following information is provided for the Multiple Linear Regression model:
     - B5: 0.01
 - Intercept: 6.75
 - The equation:
-![image](https://github.com/egemengundur/Multiple_LInear_Regression_and_SVM_Algorithm/assets/75498353/d96aef48-9ff8-44c0-9177-ec6d8622f63d)
+![image](https://github.com/egemengundur/Multiple_Linear_Regression_and_SVM_Algorithm/assets/75498353/cbce0c30-36fa-490c-bae4-f4a799ae8ece)
+
 
 - R-squared: 0.91
 - Standard errors of coefficients:
